@@ -1,29 +1,15 @@
-# Hello, I'm Suraj👋
+<h1 align="center">Hi 👋, I'm Suraj</h1>
+<h3 align="center">A passionate frontend developer from Pune</h3>
 
-I'm a passionate [Your Profession] from [Your Location]. I enjoy working on [Your Interests] and I'm always learning new things.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajbhalerao27&label=Profile%20views&color=009dff&style=plastic" alt="surajbhalerao27" /> </p>
 
-## 🔧 Technologies & Tools
+- 📫 How to reach me **cs.engr.suraj@gmail.com**
 
-<!-- Use animated tiles for technologies -->
-<p align="center">
-  <img src="tech-icons/javascript.gif" alt="JavaScript" width="50" height="50"/>
-  <img src="tech-icons/html5.gif" alt="HTML5" width="50" height="50"/>
-  <img src="tech-icons/css3.gif" alt="CSS3" width="50" height="50"/>
-  <!-- Add more technologies here -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-## 🌱 I'm currently learning
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-[What you are currently learning or focusing on]
-
-## 📫 How to reach me
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourusername/)
-- Website: [Your Personal Website](https://www.yourwebsite.com/)
-
-## ⚡ Fun fact
-
-[Interesting fact about yourself]
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajbhalerao27&show_icons=true&locale=en&layout=compact" alt="surajbhalerao27" /></p>
